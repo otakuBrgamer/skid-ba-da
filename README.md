@@ -1,1 +1,2 @@
-# skid-ba-da
+# synchronousBallMovement
+Ball moving synchronously
